@@ -17,4 +17,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/gulp-%23CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
