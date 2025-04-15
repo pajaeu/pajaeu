@@ -1,8 +1,12 @@
-# Hi!, I'm Paul, a Czech Web Developer 👋🏼:
+### Hello there 👋🏼
+
+#### Full-Stack Developer with main focus on Laravel
+
 👨🏼‍💻 working as a web developer since 2021
 
+⚙️ stuff I use daily: `.php`, `.js`, `.html`, `.css`
 
-# 💻 Tech Stack:
+#### 💻 Complete Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
