@@ -2,9 +2,14 @@
 
 #### Full-Stack Developer with main focus on Laravel
 
-👨🏼‍💻 working as a web developer since 2021
+👨🏼‍💻 Building for the web since **2021**
 
-⚙️ stuff I use daily: `.php`, `.js`, `.html`, `.css`
+⚙️ stuff I use daily: `.php` `.js` `.html` `.css`
+
+🔎 Backend-first, full-stack capable
+
+🤝 Open to interesting projects
+
 
 #### 💻 Complete Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white)
